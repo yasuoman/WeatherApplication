@@ -1,6 +1,6 @@
 # Weather application
 
-![Weather application](weather.png)
+![Weather application](weather.PNG)
 ![Weather application](Screenshot_1551367927.png)
 ![Weather application](display/weather_app_assign.png)
 
