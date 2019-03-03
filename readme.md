@@ -1,5 +1,6 @@
 # Weather application
-
+![image](https://github.com/yasuoman/WeatherApplication/blob/master/weather.gif)
+![Weather application](display/Screenshot_1551609777.png)
 ![Weather application](display/weather_app_assign.png)
 
 For our first Android application, let us design a Weather application. We will first complete the application, then discuss the details later. We will learn by doing.
