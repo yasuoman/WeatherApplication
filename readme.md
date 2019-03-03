@@ -1,5 +1,5 @@
 # Weather application
-![image](https://github.com/yasuoman/WeatherApplication/blob/master/weather.gif)
+//![image](https://github.com/yasuoman/WeatherApplication/blob/master/weather.gif)
 
 
 
